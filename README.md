@@ -11,6 +11,7 @@ O objetivo é praticar a estruturação básica de projetos com documentação.
 
 ```
 📦 aula-tabela/
+├── .gitignore
 ├── index.html
 └── README.md
 ```
